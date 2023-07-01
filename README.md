@@ -26,8 +26,7 @@ Ivestigation of Affected Assets and Events. In this step, I focused on investiga
 Investigation of Solved IP Addresses. In this last step we analyze the IP addresses linked to resolved security issues. By examining these addresses, i aimed to identify the root causes, detect patterns or trends, and implement preventive measures to avoid similar incidents in the future.
 
 
-<img width="1531" alt="Screenshot 2023-06-30 at 9 41 56 PM" src="https://github.com/dormorr993310/Chronicle_lab/assets/138055368/7ec0d7d2-2bd7-42cb-b2dd-a00f8b030d86">
-
+<img width="1534" alt="Screenshot 2023-06-30 at 9 54 38 PM" src="https://github.com/dormorr993310/Chronicle_lab/assets/138055368/2851e481-f29b-4f32-bea9-2ba4ebbd8da7">
 
 
 
