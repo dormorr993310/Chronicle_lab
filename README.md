@@ -20,3 +20,10 @@ Investigation of Threat Intelligence Data. Within the query search results, i sp
 Ivestigation of Affected Assets and Events. In this step, I focused on investigating the affected assets and events identified in the query results. This may include analyzing logs, system data, or other relevant information related to the assets (servers, endpoints, applications) and events ( security incidents, unusual activities). By examining these details, I aimed to determine the scope, timeline, and potential impact of the identified security events or incidents.
 
 
+<img width="1531" alt="Screenshot 2023-06-30 at 9 41 56 PM" src="https://github.com/dormorr993310/Chronicle_lab/assets/138055368/2e9daf07-6d7c-4020-85f8-64487d3e494f">
+
+
+Investigation of Solved IP Addresses. In this last step we analyze the IP addresses linked to resolved security issues. By examining these addresses, i aimed to identify the root causes, detect patterns or trends, and implement preventive measures to avoid similar incidents in the future.
+
+
+
